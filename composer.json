@@ -1,0 +1,14 @@
+{
+    "name": "neuralys/jslint",
+    "description": "JSLint script to work with Packagist",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Nicolas BELIN",
+            "email": "nico@neuralys.com"
+        }
+    ],
+    "require": {
+
+    }
+}
